@@ -2,18 +2,18 @@
   "basic_info": {
     "name": "Ethan Albers",
     "titles": [
-      "Software Developer"
+      "25 year old aspiring software developer from Dayton, OH"
     ],
     "social": [
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github.com/ekalbers",
         "class": "fab fa-github"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/ethanalbers/",
+        "class": "fab fa-linkedin"
       }
     ],
     "image": "myProfile.jpg"
