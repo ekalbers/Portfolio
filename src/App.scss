@@ -45,7 +45,6 @@ header {
 	background-size: cover;
 	padding-top: 150px;
 	padding-bottom: 0;
-	background-image: '../public/images/bonfire.jpeg';
 }
 
 header .nav {
@@ -258,7 +257,9 @@ header h1 {
 }
 
 #resume {
-	background: #02735E;
+	background-image: url("../public/images/bonfire.jpeg");
+	background-position-x: center;
+	background-position-y: bottom;
 }
 
 .experience-icon {
