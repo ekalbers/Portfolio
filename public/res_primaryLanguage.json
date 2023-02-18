@@ -45,7 +45,7 @@
       "url": "https://github.com/ekalbers",
       "technologies": [
         {
-          "class": "devicon-react-original",
+          "class": "devicon-html5-plain",
           "name": "Html5"
         },
         {
@@ -79,6 +79,20 @@
     }
   ],
   "experience": [
+    {
+      "company": "75th Ranger Regiment",
+      "title": "Human Inteligence Collector",
+      "years": "09.2019 - 10.2022",
+      "mainTech": [
+        "Joint Special Operation Comman Task Force",
+        "Afghanistan American Citizen Recovery 2021"
+      ],
+      "technologies": [
+        "Interrogator",
+        "Source Handler",
+        "Debriefer"
+      ]
+    },
     {
       "company": "DefOpenSource",
       "title": "Front-End Developer",
